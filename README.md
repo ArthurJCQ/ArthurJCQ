@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arthur !
+# 👋 Hi, I'm Arty !
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-4F1B7E?style=for-the-badge&logo=symfony&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
@@ -21,5 +21,6 @@ Available on the App Store, *KillerParty* is designed to bring excitement and in
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurjacquemin/)
 [![X](https://img.shields.io/badge/%40astroguy-FFFFFF?style=for-the-badge&logo=x&logoColor=black)](https://x.com/astroguy)
+[![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajacquemin@eleven-labs.com)
 
 ---
