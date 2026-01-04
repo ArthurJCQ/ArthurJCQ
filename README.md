@@ -15,6 +15,12 @@
 - ⚙️ Always eager to learn new tools and frameworks to keep my skills sharp
 - 💡 Check out my articles on the [Eleven Labs blog](https://blog.eleven-labs.com/fr/authors/ajacquemin/)
 
+## 📦 Packages
+Checkout my packages, they may suit your needs:
+
+- **[arty/php-coding-standard](https://packagist.org/packages/arty/php-coding-standard)** ✔️ A set oh PHP coding standard for php-cs, phpstan & phpmmd
+- **[arty/probe-bundle](https://packagist.org/packages/arty/probe-bundle)** 🚨 A Symfony bundle to create and run diagnostic probes, with an alerting layer.
+
 ## 🎮 Featured Project: KillerParty
 I created **[KillerParty](https://apps.apple.com/fr/app/killerparty/id6468843961)** 🔪, a fun party game app to enjoy with friends!
 
