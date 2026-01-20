@@ -15,7 +15,7 @@
 - 🧑‍💻 Passionate about crafting quality code and innovative web solutions
 - ⚙️ Always eager to learn new tools and frameworks to keep my skills sharp
 - 💡 Check out my articles on the [Eleven Labs blog](https://blog.eleven-labs.com/fr/authors/ajacquemin/)
-- 🎙️ Go listen my podcast sponsored by Eleven Labs, the [Astrocast](https://www.youtube.com/watch?v=9xUtzUH-lZY&list=PL5Vjj13ChCsazPFp7KgIxEXwWdTrKLedP&index=3) (french only, available on YouTube and all podcast platforms)
+- 🎙️ Go listen to my podcast sponsored by Eleven Labs, the [Astrocast](https://www.youtube.com/watch?v=9xUtzUH-lZY&list=PL5Vjj13ChCsazPFp7KgIxEXwWdTrKLedP&index=3) (french only, available on YouTube and all podcast platforms)
 
 ## 📦 Packages
 Checkout my packages, they may suit your needs:
