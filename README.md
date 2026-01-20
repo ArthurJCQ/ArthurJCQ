@@ -8,7 +8,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 🐘 I'm a web developer with a strong focus on **PHP** and **Symfony**, building efficient and scalable backends.  
-✨ I also work with **JavaScript** frameworks like **React** and **Vue** to create interactive and responsive user experiences when needed.
+✨ I also work with **JavaScript** frameworks like **React** and **Vue** to create interactive and responsive user experiences when needed.  
 ⚡️ After many years of vanilla coding, I now leverage AI tools to enhance my capabilities while maintaining the highest standards of code quality and security.
 
 - 🚀 Currently at [**Eleven Labs**](https://eleven-labs.com/)
