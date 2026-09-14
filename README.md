@@ -13,7 +13,7 @@
 🐘 I'm a web developer with a strong focus on **PHP** and **Symfony**, building efficient and scalable backends.  
 ✨ I also work with **TypeScript** frameworks like **NestJS**, or **React** to create interactive and responsive user experiences.  
 
-⚡️ I am a **Claude Certified Architect**, leveraging the power of AI and agents orchestration to automate end-to-end workflows in production  
+⚡️ I am a [**Claude Certified Architect**](https://www.credly.com/badges/0444ddf2-ab99-418b-9b72-d6e9cb94b9f4/linked_in?t=tkops9), leveraging the power of AI and agents orchestration to automate end-to-end workflows in production  
 
 🤖 I can help you integrating powerful AI agents in your applications, configure MCP servers, automatize workflows with SKILLS, and much more.
 
