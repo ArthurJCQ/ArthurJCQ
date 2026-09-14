@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Arty !
+![ClaudeCertifiedArchitect](https://img.shields.io/badge/Claude%20Certified%20Architect-FCFCFB?style=for-the-badge&logo=claude)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-4F1B7E?style=for-the-badge&logo=symfony&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-ea2857?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -11,7 +12,8 @@
 
 🐘 I'm a web developer with a strong focus on **PHP** and **Symfony**, building efficient and scalable backends.  
 ✨ I also work with **TypeScript** frameworks like **NestJS**, or **React** to create interactive and responsive user experiences.  
-⚡️ After many years of vanilla coding, I now leverage AI tools to enhance my capabilities while maintaining the highest standards of code quality and security.  
+
+⚡️ I am a **Claude Certified Architect**, leveraging the power of AI and agents orchestration to automate end-to-end workflows in production  
 
 🤖 I can help you integrating powerful AI agents in your applications, configure MCP servers, automatize workflows with SKILLS, and much more.
 
